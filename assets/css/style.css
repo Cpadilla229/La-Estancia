@@ -4,7 +4,7 @@
 
 :root{
 
-    --brown:#D2B89C;
+    --brown:#200f80;
 
 }
 
@@ -12,7 +12,7 @@
 
 body{
 
-    background:#D2B89C;
+    background:#200f80;
 
 }
 
@@ -108,7 +108,7 @@ section{
 
     padding-bottom: 8rem;
 
-    border-bottom: 0.1rem solid #D2B89C;
+    border-bottom: 0.1rem solid #200f80;
 
 }
 
