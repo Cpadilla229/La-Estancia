@@ -988,7 +988,7 @@ section{
 
     font-size: 2rem;
 
-    color: #222;
+    color: rgb(241, 235, 235);
 
     padding-bottom: .5rem;
 
@@ -1000,7 +1000,7 @@ section{
 
     font-size: 1.5rem;
 
-    color: #222;
+    color: rgb(248, 248, 248);
 
 }
 
@@ -1060,7 +1060,7 @@ section{
 
     font-size: 2.2rem;
 
-    color:#222;
+    color:rgb(252, 249, 249);
 
 }
 
@@ -1080,7 +1080,7 @@ section{
 
     font-size: 1.4rem;
 
-    color:#222;
+    color:rgb(243, 236, 236);
 
     line-height: 2;
 
@@ -1178,7 +1178,7 @@ section{
 
     font-size:1.4rem;
 
-    color:#222;
+    color:rgb(250, 248, 248);
 
 }
 
@@ -1194,7 +1194,7 @@ section{
 
 .blogs .box-container .box .content .icons a i{
 
-    color: #222;
+    color: rgb(248, 241, 241);
 
     padding-right: .5rem;
 
@@ -1206,7 +1206,7 @@ section{
 
     font-size: 2.2rem;
 
-    color: #222;
+    color: rgb(250, 249, 249);
 
 }
 
@@ -1216,7 +1216,7 @@ section{
 
     font-size: 1.4rem;
 
-    color: #222;
+    color: rgb(248, 246, 246);
 
     line-height: 2;
 
@@ -1274,7 +1274,7 @@ section{
 
 .contact .icons-container .icons h3{
 
-    color:#222;
+    color:rgb(253, 250, 250);
 
     font-size: 2rem;
 
@@ -1286,7 +1286,7 @@ section{
 
 .contact .icons-container .icons p{
 
-    color:#222;
+    color:rgb(253, 251, 251);
 
     font-size: 1.5rem;
 
@@ -1330,7 +1330,7 @@ section{
 
     padding-bottom: 1rem;
 
-    color: #222;
+    color: rgb(248, 246, 246);
 
 }
 
@@ -1360,7 +1360,7 @@ section{
 
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
 
-    color: #222;
+    color: rgb(248, 247, 247);
 
     text-transform:none;
 
@@ -1428,7 +1428,7 @@ section{
 
     font-size: 2.2rem;
 
-    color: #222;
+    color: rgb(250, 249, 249);
 
     padding:1rem 0;
 
