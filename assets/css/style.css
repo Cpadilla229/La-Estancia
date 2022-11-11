@@ -154,7 +154,7 @@ section{
 
     margin-left:auto;
 
-    color: #222;
+    color: rgb(182, 174, 174);
 
     font-size: 1.5rem;
 
@@ -210,7 +210,7 @@ section{
 
 .header .logo i{
 
-    color:#222;
+    color:rgb(182, 174, 174);
 
     padding-right: .5rem;
 
@@ -232,7 +232,7 @@ section{
 
 .header .navbar a:hover{
 
-    color: #222;
+    color:rgb(182, 174, 174);
 
 }
 
@@ -254,7 +254,7 @@ section{
 
 .header .icons div:hover{
 
-    color: #222;
+    color:rgb(182, 174, 174);
 
 }
 
@@ -422,7 +422,7 @@ section{
 
 .home #prev-slide:hover{
 
-    background:#222;
+    background:rgb(182, 174, 174);
 
     color: #fff;
 
@@ -582,7 +582,7 @@ section{
 
     margin: 1rem 0;
 
-    color: #222;
+    color: rgb(182, 174, 174);
 
 }
 
@@ -680,7 +680,7 @@ section{
 
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
 
-    color: #666;
+    color: rgb(182, 174, 174);
 
   }
 
@@ -732,7 +732,7 @@ section{
 
     font-size: 2rem;
 
-    color: #222;
+    color: rgb(182, 174, 174);
 
   }
 
@@ -742,7 +742,7 @@ section{
 
     font-size: 2rem;
 
-    color: #222;
+    color: rgb(182, 174, 174);
 
     padding: 1rem 0;
 
